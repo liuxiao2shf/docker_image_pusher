@@ -5,12 +5,13 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 mysql:5.7
-redis
-rabbitmq
-ubuntu
+debezium/postgres:9.6
+# redis
+# rabbitmq
+# ubuntu
 
-mysql:8.0.32
-phpmyadmin:5.2.1
-redis:6.2
-rabbitmq:3.12.9
-testcontainers/ryuk:0.5.1
+# mysql:8.0.32
+# phpmyadmin:5.2.1
+# redis:6.2
+# rabbitmq:3.12.9
+# testcontainers/ryuk:0.5.1
