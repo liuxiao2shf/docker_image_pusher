@@ -23,4 +23,4 @@
 #postgres:14
 #postgres:16-alpine
 
-ryuk:0.3.4
+testcontainers/ryuk:0.3.4
