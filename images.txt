@@ -16,27 +16,27 @@
 #postgres:16-alpine
 #debezium/postgres:9.6
 
-mongo
+#mongo
 # redis
 
 #flink:1.17.2-scala_2.12
 # rabbitmq
-rabbitmq:3-management
+#rabbitmq:3-management
 
-openjdk
-openjdk:8-alpine
-openjdk:8
+#openjdk
+#openjdk:8-alpine
+#openjdk:8
 
-python
-ruby
-golang
-php
+#python
+#ruby
+#golang
+#php
 
-ubuntu
-debian
-alpine
-centos
-fedora
+#ubuntu
+#debian
+#alpine
+#centos
+#fedora
 
 
 # phpmyadmin:5.2.1
@@ -45,3 +45,4 @@ fedora
 # testcontainers/ryuk:0.5.1
 # testcontainers/ryuk:0.3.4
 
+starrocks.docker.scarf.sh/starrocks/allin1-ubuntu:2.5-latest
