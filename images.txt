@@ -7,22 +7,39 @@
 # apache
 # tomcat
 
+# 操作系统
+#ubuntu
+#debian
+#alpine
+#centos
+#fedora
+
+# 数据库
 #mysql
 #mysql:5.7
 #mysql:8.0.37
 # mysql:8.0.32
 
+# starrocks.docker.scarf.sh/starrocks/allin1-ubuntu:2.5-latest
+
 #postgres:14
 #postgres:16-alpine
 #debezium/postgres:9.6
 
-#mongo
+# mongo
 # redis
+# redis:6.2
+redis:alpine
 
+# 消息队列
 #flink:1.17.2-scala_2.12
 # rabbitmq
-#rabbitmq:3-management
+# rabbitmq:3-management
+# rabbitmq:3.12.9
 
+kafka
+
+# 语言
 #openjdk
 #openjdk:8-alpine
 #openjdk:8
@@ -32,17 +49,95 @@
 #golang
 #php
 
-#ubuntu
-#debian
-#alpine
-#centos
-#fedora
-
-
 # phpmyadmin:5.2.1
-# redis:6.2
-# rabbitmq:3.12.9
+
+
 # testcontainers/ryuk:0.5.1
 # testcontainers/ryuk:0.3.4
 
-starrocks.docker.scarf.sh/starrocks/allin1-ubuntu:2.5-latest
+
+gitea/gitea
+yapi
+yym68686/uni-api
+rfym21/qwen2api
+calciumion/new-api
+xy2yp/dangbei2api
+justsong/one-api
+corentinth/it-tools
+wcjiang/reference
+wcjiang/linux-command
+lissy93/web-check
+n8nio/n8n
+xiangfa/deep-research
+anotia/deep-research-web
+byaidu/pdf2zh
+bradleylzh/deepgemini
+yidadaa/chatgpt-next-web
+lobehub/lobe-chat-database
+open-webui/open-webui
+mintplexlabs/anythingllm
+chatbookai/ai-to-pptx
+langgenius/dify-api
+wechat-ocr-api
+umi-ocr
+openaitts-ttsfm
+zuoban/zb-tts
+linzeyi/hivision_idphotos
+postgres
+mysql
+mariadb
+mongodb
+redis
+semitechnologies/weaviate
+minio/minio
+chfs
+kodbox
+clouddrive2
+xhofe/alist
+excalidraw
+drawio
+draw_container
+jsonhero-web
+newsnow
+docker-practice
+cook-how-to-cook
+pdfjs-viewer
+pdfding
+frooodle/s-pdf
+resume-optimizer
+nginx
+searxng/searxng
+intergalacticalvariable/reader
+neosmemo/memos
+marpteam/marp-cli
+mtphotos/mt-photos
+nextterminal
+0nlylty/dockercopilot
+portainer/portainer-ce
+portainer/agent
+containrrr/watchtower
+prom/node-exporter
+prom/prometheus
+grafana/grafana
+influxdb
+louislam/uptime-kuma
+dpanel/dpanel
+jason5ng32/myip
+linuxserver/snapdrop
+nwtgck/piping-server-rust
+tailscale/tailscale
+aceberg/watchyourlan
+aceberg/watchyourports
+gethomepage/homepage
+hslr/sun-panel
+whyour/qinglong
+youshandefeiyang/allinone
+doubebly/doube-itv
+pixman/pixman
+yuexuangu/allinone_format
+herberthe0229/iptv-sources
+haroldli/xiaoya-tvbox
+guovern/tv-requests
+guovern/iptv-api
+zmisgod/iptvchecker
+alexta69/metube
