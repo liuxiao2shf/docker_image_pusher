@@ -57,7 +57,7 @@ redis:alpine
 
 
 gitea/gitea
-yapi
+# yapi
 yym68686/uni-api
 rfym21/qwen2api
 calciumion/new-api
