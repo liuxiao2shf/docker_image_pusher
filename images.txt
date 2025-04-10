@@ -74,7 +74,7 @@ byaidu/pdf2zh
 bradleylzh/deepgemini
 yidadaa/chatgpt-next-web
 lobehub/lobe-chat-database
-open-webui/open-webui
+# open-webui/open-webui
 mintplexlabs/anythingllm
 chatbookai/ai-to-pptx
 langgenius/dify-api
