@@ -76,7 +76,7 @@ yidadaa/chatgpt-next-web
 lobehub/lobe-chat-database
 # open-webui/open-webui
 mintplexlabs/anythingllm
-chatbookai/ai-to-pptx
+# chatbookai/ai-to-pptx
 langgenius/dify-api
 wechat-ocr-api
 umi-ocr
