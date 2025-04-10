@@ -37,7 +37,7 @@ redis:alpine
 # rabbitmq:3-management
 # rabbitmq:3.12.9
 
-kafka
+# kafka
 
 # 语言
 #openjdk
