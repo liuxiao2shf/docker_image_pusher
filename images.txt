@@ -78,7 +78,7 @@ lobehub/lobe-chat-database
 mintplexlabs/anythingllm
 # chatbookai/ai-to-pptx
 langgenius/dify-api
-wechat-ocr-api
+# wechat-ocr-api
 umi-ocr
 openaitts-ttsfm
 zuoban/zb-tts
