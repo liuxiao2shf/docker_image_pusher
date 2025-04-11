@@ -79,7 +79,7 @@ mintplexlabs/anythingllm
 # chatbookai/ai-to-pptx
 langgenius/dify-api
 # wechat-ocr-api
-umi-ocr
+# umi-ocr
 openaitts-ttsfm
 zuoban/zb-tts
 linzeyi/hivision_idphotos
