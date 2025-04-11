@@ -80,64 +80,64 @@ mintplexlabs/anythingllm
 langgenius/dify-api
 # wechat-ocr-api
 # umi-ocr
-openaitts-ttsfm
-zuoban/zb-tts
-linzeyi/hivision_idphotos
-postgres
-mysql
-mariadb
-mongodb
-redis
-semitechnologies/weaviate
-minio/minio
-chfs
-kodbox
-clouddrive2
-xhofe/alist
-excalidraw
-drawio
-draw_container
-jsonhero-web
-newsnow
-docker-practice
-cook-how-to-cook
-pdfjs-viewer
-pdfding
-frooodle/s-pdf
-resume-optimizer
-nginx
-searxng/searxng
-intergalacticalvariable/reader
-neosmemo/memos
-marpteam/marp-cli
-mtphotos/mt-photos
-nextterminal
-0nlylty/dockercopilot
-portainer/portainer-ce
-portainer/agent
-containrrr/watchtower
-prom/node-exporter
-prom/prometheus
-grafana/grafana
-influxdb
-louislam/uptime-kuma
-dpanel/dpanel
-jason5ng32/myip
-linuxserver/snapdrop
-nwtgck/piping-server-rust
-tailscale/tailscale
-aceberg/watchyourlan
-aceberg/watchyourports
-gethomepage/homepage
-hslr/sun-panel
-whyour/qinglong
-youshandefeiyang/allinone
-doubebly/doube-itv
-pixman/pixman
-yuexuangu/allinone_format
-herberthe0229/iptv-sources
-haroldli/xiaoya-tvbox
-guovern/tv-requests
-guovern/iptv-api
-zmisgod/iptvchecker
-alexta69/metube
+# openaitts-ttsfm
+# zuoban/zb-tts
+# linzeyi/hivision_idphotos
+# postgres
+# mysql
+# mariadb
+# mongodb
+# redis
+# semitechnologies/weaviate
+# minio/minio
+# chfs
+# kodbox
+# clouddrive2
+# xhofe/alist
+# excalidraw
+# drawio
+# draw_container
+# jsonhero-web
+# newsnow
+# docker-practice
+# cook-how-to-cook
+# pdfjs-viewer
+# pdfding
+# frooodle/s-pdf
+# resume-optimizer
+# nginx
+# searxng/searxng
+# intergalacticalvariable/reader
+# neosmemo/memos
+# marpteam/marp-cli
+# mtphotos/mt-photos
+# nextterminal
+# 0nlylty/dockercopilot
+# portainer/portainer-ce
+# portainer/agent
+# containrrr/watchtower
+# prom/node-exporter
+# prom/prometheus
+# grafana/grafana
+# influxdb
+# louislam/uptime-kuma
+# dpanel/dpanel
+# jason5ng32/myip
+# linuxserver/snapdrop
+# nwtgck/piping-server-rust
+# tailscale/tailscale
+# aceberg/watchyourlan
+# aceberg/watchyourports
+# gethomepage/homepage
+# hslr/sun-panel
+# whyour/qinglong
+# youshandefeiyang/allinone
+# doubebly/doube-itv
+# pixman/pixman
+# yuexuangu/allinone_format
+# herberthe0229/iptv-sources
+# haroldli/xiaoya-tvbox
+# guovern/tv-requests
+# guovern/iptv-api
+# zmisgod/iptvchecker
+# alexta69/metube
